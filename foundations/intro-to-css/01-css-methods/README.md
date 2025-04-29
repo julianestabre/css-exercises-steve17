@@ -22,3 +22,11 @@ The properties you need to add to each element are:
 - Does the `div` element have CSS added via the external method?
 - Does the `p` element have CSS added via the internal method?
 - Does the `button` element have CSS added via the inline method?
+
+RESPUESTAS:
+
+1. No, use solamente el metodo externo, colocando el archivo CSS dentro de <head>
+2. Si, vinculé correctamente el archivo CSS en el archivo HTML
+3. Si, el elemento <div> tiene CSS agregado mediante el método externo
+4. No, el elemento <p> tiene CSS agregado mediante el método externo
+5. No, el elemento <button> tiene CSS agregado mediant el método externo
