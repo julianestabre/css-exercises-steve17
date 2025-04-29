@@ -17,3 +17,7 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+1. SI, cada elemento tiene un nombre de clase unico.
+2. SI, utilice el selector agrupado (.btn-1, .btn-2) para agregar el tamaño de letra y su fuente
+3. SI, tambien utilice reglas separadas para establecer el color y el fondo de cada elemento.
