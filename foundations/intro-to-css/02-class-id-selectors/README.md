@@ -23,3 +23,9 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+1. SI, comparten una clase. Number 3 comparte la clase nm-1 con Number 1 para utilizar su mismo diseño, luego se crea nm-3 para agregar un tamaño de letra distinto.
+
+2. SI, tienen un ID unico.
+
+3. Tiene dos clases, no se si es necesario para que sean múltiples, pero contiene dos clases en su elemento.
